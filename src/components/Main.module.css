@@ -1,0 +1,48 @@
+.banner{
+    height: 100vh;
+    background-image: url("../Assets/laranja\ azul\ recorte.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.text{ 
+  position: relative;
+    margin-bottom:10rem ;
+    margin-left:7.5rem ;
+  font-size:3.5rem ;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+   
+}
+
+.sloganFrase {
+    position: absolute;
+    font-family: 'Montserrat' , sans-serif;
+    font-size:2.5rem ;
+    color:white ;     
+    text-transform: uppercase;     
+    font-weight: bold;  
+    left: 8rem;
+}
+
+
+main {
+    display: flex;
+    width:100% ;
+    flex-wrap: wrap;
+    justify-content:center ;
+
+
+}
+.alinhamentoDeImagem {
+     
+    width:40vh ;
+    padding: 4.5px;
+    transition: .3s linear;
+    cursor: pointer;
+  
+}

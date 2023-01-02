@@ -1,0 +1,57 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing:border-box ;
+}
+
+
+
+
+.headerFlex{
+    background-color:white ;
+    width:100vw;
+    padding:15px ;
+    position: fixed;
+    height:10vh ;
+  z-index:10 ;
+
+}
+.naviGation{
+    display:flex ;
+    justify-content:space-between ;
+    align-items:center ;
+   
+
+}
+
+
+
+.naviGation ul{
+    display: flex ;
+    align-items:center ;
+    list-style:none ;
+    position: relative;
+
+   width:100vh ;
+    
+
+}
+
+.naviGation li{
+    text-decoration:none ;
+    color: aqua;
+    font-size:2.5rem ;
+    padding:8px 15px ;
+    font-weight:bold ;
+ 
+
+}
+
+.logo {
+    position: relative;
+   left:5vh ;
+   font-weight:bold ;
+   font-size:2.5rem ;
+   color:aqua ;
+ }
+
