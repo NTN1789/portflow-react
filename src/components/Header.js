@@ -4,7 +4,7 @@ function Header (){
 
 
         return(
-                 <div >
+                 < >
                     <header className={styles.headerFlex}>
                 <nav className={styles.naviGation}>
                   <span> 
@@ -19,7 +19,7 @@ function Header (){
              </nav>
            </header>            
            
-    </div>
+    </>
         )
 }
 

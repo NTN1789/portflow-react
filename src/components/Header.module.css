@@ -47,6 +47,14 @@
 
 }
 
+.naviGation li:hover {
+    position: relative;
+    transition: 2s;
+    transform: scale(1.2);
+   border: none;
+   cursor:pointer ;
+}
+
 .logo {
     position: relative;
    left:5vh ;

@@ -29,6 +29,14 @@
     left: 8rem;
 }
 
+.sloganFrase:hover{
+  cursor: pointer;
+  
+  transition:2s ;
+   transform: scale(1.1) ;  
+   text-decoration: underline;
+}
+
 
 main {
     display: flex;
@@ -38,11 +46,18 @@ main {
 
 
 }
-.alinhamentoDeImagem {
-     
-    width:40vh ;
-    padding: 4.5px;
-    transition: .3s linear;
-    cursor: pointer;
+
+
+
+img{
+  width:50vh ;
+  padding: 4.5px;
+  transition: .3s linear;
+  cursor: pointer;
   
+}
+
+img:hover{
+  padding: 10px;
+    transform: scale(1.0);
 }
