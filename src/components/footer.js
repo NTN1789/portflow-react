@@ -1,6 +1,6 @@
 import styles from "../components/footer.module.css"
-import face from "../img/face.png"
-import insta from "../img/insta.jpeg"
+import face from "../Assets/img/face.png"
+import insta from "../Assets/img/insta.jpeg"
 
 
 

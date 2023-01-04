@@ -1,17 +1,17 @@
 import React from 'react'
 import styles from './Main.module.css'
-import cafe from "../img/cafe.png"
-import pao from "../img/pao.png"
-import sorvete from "../img/sorvete.png"
-import telaDePc from "../img/telaDePc.png"
-import Dashbord from "../img/Dashbord.png"
-import xicara from "../img/xicara.png"
-import monitor from "../img/monitor.png"
-import barraDeCereal from "../img/barraDeCereal.png"
-import cel from "../img/cel.png"
-import Tablet from "../img/Tablet.png"
-import fotos from "../img/fotos.png"
-import escritorio from "../img/escritorio.png"
+import cafe from "../Assets/img/cafe.png"
+import pao from "../Assets/img/pao.png"
+import sorvete from "../Assets/img/sorvete.png"
+import telaDePc from "../Assets/img/telaDePc.png"
+import Dashbord from "../Assets/img/Dashbord.png"
+import xicara from "../Assets/img/xicara.png"
+import monitor from "../Assets/img/monitor.png"
+import barraDeCereal from "../Assets/img/barraDeCereal.png"
+import cel from "../Assets/img/cel.png"
+import Tablet from "../Assets/img/Tablet.png"
+import fotos from "../Assets/img/fotos.png"
+import escritorio from "../Assets/img/escritorio.png"
 
 function Main (){
 
